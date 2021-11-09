@@ -3,19 +3,19 @@
     <h1>Record Criteria (기록 기준)</h1>
     <ul class="aligning-criteria">
       <li>
-        정품 아케이드 기판을 사용한 오락실에서 플레이 (ex: 부천 신중동 아카트로닉스)<br>
+        Plays on an authentic arcade PCB (ex: Akatronics, Bucheon Sinjungdong)<br>
         (정품 아케이드 기판을 사용한 오락실에서 플레이 (ex: 부천 신중동 아카트로닉스))
       </li>
       <li>
-        Steam에서 보유 중인 게임을 플레이<br>
+        Plays Steam shmups I have<br>
         (Steam에서 보유 중인 게임을 플레이)
       </li>
       <li>
-        Arcade Archives나 Capcom Arcade Stadium 등등의 정식 복각판에서 플레이<br>
-        (Arcade Archives나 Capcom Arcade Stadium 등등의 정식 복각판에서 플레이)
+        Plays on Arcade Archives or Capcom Arcade Stadium<br>
+        (Arcade Archives나 Capcom Arcade Stadium 등등에서 플레이)
       </li>
       <li>
-        이외의 정품 플레이 기록 (ex: 케츠이 Deathtiny PS4판)<br>
+        And other plays on authentic stuffs (ex: Ketsui Deathtiny on PS4)<br>
         (이외의 정품 플레이 기록 (ex: 케츠이 Deathtiny PS4판))
       </li>
     </ul>
