@@ -3,8 +3,9 @@
     <h2 class="article-title">
       {{ gameTitle }}
     </h2>
-    <div class="record-sectors" v-for="sector in sectors" v-bind:key="sector.sectorId">
+    <div class="record-sectors">
       <RecordSector
+        v-for="sector in sectors" v-bind:key="sector.sectorId"
         :gameId="gameId"
         :sectorId="sector.sectorId"
         :sectorName="sector.sectorName"

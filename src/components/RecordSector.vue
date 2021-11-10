@@ -1,6 +1,6 @@
 <template>
   <div class="record-sector">
-    <img :src="`../assets/recordimgs/${gameId}/${sectorId}.png`">
+    <img :src="require(`../assets/recordimgs/${gameId}/${sectorId}.png`)">
     <ul>
       <li>
         {{ sectorName }}
