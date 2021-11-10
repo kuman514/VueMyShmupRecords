@@ -8,7 +8,7 @@
         "sectorName": "B-STRONG",
         "maxArea": "Omote 2-5",
         "score": "7,934,643,014",
-        "byWhat": "Steam",
+        "byWhat": "Dodonpachi Resurrection on Steam",
         "comment": "믿을 수가 없네요... 벌써 오모테 2-5까지 갔다니... 제 현재 실력에 비해 운이 꽤 좋았다는 느낌이 좀 있었지만, 아무튼 2주 클리어까지 얼마 안 남은 것 같아 기분이 죽여주네요... ㅎㅎ"
       },
       {
@@ -18,6 +18,36 @@
         "score": "6,353,609,965",
         "byWhat": "Arcade in Akatronics",
         "comment": "대부활 실기 오모테 2-4에서 끝나버렸네요 ㅠㅠ 1-2랑 1-3에서 피격당하지만 않았으면 더 오래 갈 수 있을 것 같았는데 아쉽습니다... 그래도 하이퍼 빨리빨리 충전해서 쭉쭉 밀어나갔네용 ㅎㅎ"
+      }
+    ]
+  },
+  {
+    "id": "dariusgaiden",
+    "title": "Darius Gaiden (다라이어스 외전)",
+    "sector": [
+      {
+        "sectorId": "acfjouv_arcade",
+        "sectorName": "ACFJOUV'",
+        "maxArea": "ALL",
+        "score": "5,510,540",
+        "byWhat": "Arcade in Akatronics",
+        "comment": "\"스톰커저 드디어 원코인에 뽀갰다! 드디어 원코인으로 깨는 게임이 생겼다!\"라는 코멘트와 함께 공유했었습니다. 원코인(노컨티뉴)으로 클리어한 첫 슈팅게임이라 그런지, 지금 생각해도 그 순간이 굉장히 뜻깊고 짜릿했습니다."
+      },
+      {
+        "sectorId": "acfinsyarcade",
+        "sectorName": "ACFINSY",
+        "maxArea": "ALL",
+        "score": "4,634,860",
+        "byWhat": "Arcade in Akatronics",
+        "comment": "ACFINSY 실기체에서!"
+      },
+      {
+        "sectorId": "acfjouzarcade",
+        "sectorName": "ACFJOUZ",
+        "maxArea": "ALL",
+        "score": "6,525,440",
+        "byWhat": "Arcade in Akatronics",
+        "comment": "다라이어스 외전 ACFJOUZ 실기로 클리어 했습니다! 사실 U까지 깨는데 풀파워에서 한 레벨 낮은 파워 유지할때 꽤 많이 긴장했는데 의외로 노미스로 잘 된 것 같습니다. 보스 직전 용암 분출 구간에서 한 목숨 날린건 아쉽지만, 그래도 예상 외로, 2목숨이나 남기고 클리어됐네요."
       }
     ]
   }
