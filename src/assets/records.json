@@ -4,152 +4,20 @@
     "title": "Dodonpachi Resurrection (도돈파치 대부활)",
     "sector": [
       {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "id": "dariusgaiden",
-    "title": "Darius Gaiden (다라이어스 외전)",
-    "sector": [
+        "sectorId": "bstrongsteam",
+        "sectorName": "B-STRONG",
+        "maxArea": "Omote 2-5",
+        "score": "7,934,643,014",
+        "byWhat": "Steam",
+        "comment": "믿을 수가 없네요... 벌써 오모테 2-5까지 갔다니... 제 현재 실력에 비해 운이 꽤 좋았다는 느낌이 좀 있었지만, 아무튼 2주 클리어까지 얼마 안 남은 것 같아 기분이 죽여주네요... ㅎㅎ"
+      },
       {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "id": "dodonpachi",
-    "title": "Dodonpachi (도돈파치)",
-    "sector": [
-      {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "id": "galagaarrangement",
-    "title": "Galaga Arrangement (갤러그 어레인지)",
-    "sector": [
-      {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "id": "gradius3",
-    "title": "Gradius III (그라디우스 III)",
-    "sector": [
-      {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "id": "gradius5",
-    "title": "Gradius V (그라디우스 V)",
-    "sector": [
-      {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "id": "ketsui",
-    "title": "Ketsui (케츠이)",
-    "sector": [
-      {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "id": "saidaioujou",
-    "title": "Dodonpachi True Death (도돈파치 최대왕생)",
-    "sector": [
-      {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "id": "strikers1945",
-    "title": "Strikers 1945 (스트라이커즈 1945)",
-    "sector": [
-      {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "id": "strikers1945ii",
-    "title": "Strikers 1945 II (스트라이커즈 1945 II)",
-    "sector": [
-      {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "id": "strikers1945iii",
-    "title": "Strikers 1945 III (스트라이커즈 1999)",
-    "sector": [
-      {
-        "sectorId": "",
-        "sectorName": "",
-        "maxArea": "",
-        "score": "",
-        "byWhat": "",
-        "comment": ""
+        "sectorId": "bstrongarcade",
+        "sectorName": "B-STRONG",
+        "maxArea": "Omote 2-4",
+        "score": "6,353,609,965",
+        "byWhat": "Arcade in Akatronics",
+        "comment": "대부활 실기 오모테 2-4에서 끝나버렸네요 ㅠㅠ 1-2랑 1-3에서 피격당하지만 않았으면 더 오래 갈 수 있을 것 같았는데 아쉽습니다... 그래도 하이퍼 빨리빨리 충전해서 쭉쭉 밀어나갔네용 ㅎㅎ"
       }
     ]
   }
