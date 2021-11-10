@@ -3,7 +3,7 @@
     <h2 class="article-title">
       {{ gameTitle }}
     </h2>
-    <div v-for="sector in sectors" v-bind:key="sector.sectorId">
+    <div class="record-sectors" v-for="sector in sectors" v-bind:key="sector.sectorId">
       <RecordSector
         :gameId="gameId"
         :sectorId="sector.sectorId"
@@ -32,3 +32,11 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.record-sectors {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+</style>

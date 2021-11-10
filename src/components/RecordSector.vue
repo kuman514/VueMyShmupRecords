@@ -6,16 +6,16 @@
         {{ sectorName }}
       </li>
       <li>
-        {{ maxArea }}
+        Area: {{ maxArea }}
       </li>
       <li>
-        {{ score }}
+        Score: {{ score }} Pts.
       </li>
       <li>
-        {{ byWhat }}
+        Via: {{ byWhat }}
       </li>
       <li>
-        {{ comment }}
+        Comment: {{ comment }}
       </li>
     </ul>
   </div>
@@ -35,3 +35,13 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.record-sector {
+  max-width: 400px;
+}
+
+ul {
+  text-align: left;
+}
+</style>
