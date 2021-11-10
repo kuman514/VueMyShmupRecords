@@ -38,10 +38,15 @@ export default {
 
 <style scoped>
 .record-sector {
-  max-width: 400px;
+  width: 400px;
 }
 
-ul {
+.record-sector > img {
+  max-width: 360px;
+  max-height: 360px;
+}
+
+.record-sector > ul {
   text-align: left;
 }
 </style>
