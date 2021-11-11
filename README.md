@@ -1,24 +1,13 @@
-# vue-my-shmup-records
+# VueMyShmupRecords
+나(kuman514 또는 YSO)의 슈팅게임 성과를 정리한 것을 열람할 수 있는 앱.
+([열람하기](https://kuman514.github.io/VueMyShmupRecords))
 
-## Project setup
-```
-npm install
-```
+# Objectives (목적)
+- 트위터 등의 SNS나 커뮤니티 등에 슈팅게임 성과를 올리곤 하지만, 시간이 지날수록 사람들의 다른 글들이 쌓이기 때문에 이런 제 성과 기록들을 찾기가 힘들어지고 번거로워집니다.
+- 이러한 이유로, 저의 슈팅게임 성과를 쉽게 열람할 수 있도록 하는 앱을 따로 만들기로 하였습니다.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Challenges (과제)
+- `Github Pages`에서도 라우팅이 잘 되도록 해시 라우팅 구축.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Updated (업데이트)
+- 11-11-2021: 최초 릴리즈. 대부활, 도돈파치(1997), 다라이어스 외전, 갤러그 어레인지 기록 등재.
