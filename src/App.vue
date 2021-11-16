@@ -2,7 +2,8 @@
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/criteria">Criteria</router-link> |
-    <router-link to="/myrecords">My Records</router-link>
+    <router-link to="/myrecords">My Records</router-link> |
+    <router-link to="/licence">Licence</router-link>
   </div>
   <router-view/>
 </template>
