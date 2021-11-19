@@ -39,5 +39,7 @@ export default {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: baseline;
+  flex-wrap: wrap;
 }
 </style>
